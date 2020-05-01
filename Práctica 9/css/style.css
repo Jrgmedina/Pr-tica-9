@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+	font-size: 5em;
+	background-color: #FFFFFF
+}
+p {
+	font-family: 'Dancing Script', cursive;
+	color:#8F00BD;
+    border:10px solid; 
+	border-color: #8F00BD;
+}
+p.dp{
+	font-family: 'Dancing Script', cursive;
+	color:#023ABB;
+	border: 10px solid;
+	 border-radius: 3px;
+	border-color: #023ABB;
+}
+p.tp { 
+	font-family: 'Dancing Script', cursive;
+	color:#ED7D00;
+	border-style: dotted dashed solid double;
+  border-width: 10px;
+  border-color:#ED7D00;
+	 border-radius: 5px;
+}
+p.cp {
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	color:#FF3B3B;
+	border-style: dotted dashed solid double;
+  border-width: 10px;
+  border-color:#FF3B3B;
+	 border-radius: 5px;}
